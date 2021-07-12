@@ -1,2 +1,2 @@
 # linear_regression_project
-# Phase Two Project Repo in Starter Info
+## Please see the Development branch for this project.
